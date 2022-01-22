@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v45-2014-04-03.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.5 2014-04-03" file="USD0720596-20150106.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20141219" date-publ="20150106">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0720596</doc-number>
+<kind>S1</kind>
+<date>20150106</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29430797</doc-number>
+<date>20120830</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="regional">
+<country>EM</country>
+<doc-number>2001230</doc-number>
+<date>20120301</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<length-of-grant>14</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>10</edition>
+<main-classification>0806</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D 8312</main-classification>
+</classification-national>
+<invention-title id="d2e71">Control knob</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>D400778</doc-number>
+<kind>S</kind>
+<name>Holbrook, Jr.</name>
+<date>19981100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 8311</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>D443496</doc-number>
+<kind>S</kind>
+<name>DeCosse</name>
+<date>20010600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 8300</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>D498657</doc-number>
+<kind>S</kind>
+<name>Milrud et al.</name>
+<date>20041100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 8311</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>D511669</doc-number>
+<kind>S</kind>
+<name>Milller</name>
+<date>20051100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 8300</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>D525517</doc-number>
+<kind>S</kind>
+<name>Baldwin</name>
+<date>20060700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 8310</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D525518</doc-number>
+<kind>S</kind>
+<name>Baldwin</name>
+<date>20060700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 8310</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D567060</doc-number>
+<kind>S</kind>
+<name>Busalt et al.</name>
+<date>20080400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 8310</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D573000</doc-number>
+<kind>S</kind>
+<name>Martin et al.</name>
+<date>20080700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 8311</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>D577983</doc-number>
+<kind>S</kind>
+<name>Martin et al.</name>
+<date>20081000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 8311</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>D612704</doc-number>
+<kind>S</kind>
+<name>Funnell et al.</name>
+<date>20100300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 8310</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>D612705</doc-number>
+<kind>S</kind>
+<name>Baker et al.</name>
+<date>20100300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 8311</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>D619873</doc-number>
+<kind>S</kind>
+<name>Bhattacharya</name>
+<date>20100700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 8311</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>D619874</doc-number>
+<kind>S</kind>
+<name>Bhattacharya</name>
+<date>20100700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 8311</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>D620778</doc-number>
+<kind>S</kind>
+<name>Bixby et al.</name>
+<date>20100800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 8311</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>D628457</doc-number>
+<kind>S</kind>
+<name>Bengtson</name>
+<date>20101200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 8311</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>D644912</doc-number>
+<kind>S</kind>
+<name>Benold</name>
+<date>20110900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 8311</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>D668928</doc-number>
+<kind>S</kind>
+<name>Butan et al.</name>
+<date>20121000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 8312</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>D704028</doc-number>
+<kind>S</kind>
+<name>Meda et al.</name>
+<date>20140500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 8310</main-classification></classification-national>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D 8300-303</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 8305-312</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 8321</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 8DIG 2</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 8DIG 1</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7402</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7405</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 7393</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 74553</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 74548</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 745585</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>116309</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>116315</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>116311</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>116312</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>116319</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>116320</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>200316</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>200336</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>345156</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 16441</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 16110 R</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 16114 R</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 16121</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 16118</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 16414</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>292413</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>292263</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>3</number-of-drawing-sheets>
+<number-of-figures>3</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only">
+<addressbook>
+<last-name>Dams</last-name>
+<first-name>Frederic</first-name>
+<address>
+<city>Market Drayton</city>
+<country>GB</country>
+</address>
+</addressbook>
+<residence>
+<country>GB</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Dams</last-name>
+<first-name>Frederic</first-name>
+<address>
+<city>Market Drayton</city>
+<country>GB</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Barlow, Josephs &#x26; Holmes, Ltd.</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Bentley Motors Limited</orgname>
+<role>03</role>
+<address>
+<city>Cheshire</city>
+<country>GB</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Goodwin</last-name>
+<first-name>Mark</first-name>
+<department>2916</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="143.85mm" wi="156.29mm" file="USD0720596-20150106-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="168.23mm" wi="165.10mm" file="USD0720596-20150106-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="178.14mm" wi="158.41mm" file="USD0720596-20150106-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="177.04mm" wi="172.47mm" file="USD0720596-20150106-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. 1</figref> is a perspective view of a control knob in accordance with the present design;</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. 2</figref> is a front view thereof; and,</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. 3</figref> is a perspective view of another embodiment of a control knob in accordance with the present design.</p>
+<p id="p-0004" num="0004">The views of the control knob that are not supported by the present disclosure are hereby disclaimed.</p>
+<p id="p-0005" num="0005">The broken line showing of the bottom of the control knob is included for the purpose of illustrating a portion of the control knob and forms no part of the claimed design.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a control knob, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

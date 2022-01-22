@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v45-2014-04-03.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.5 2014-04-03" file="USD0720588-20150106.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20141219" date-publ="20150106">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0720588</doc-number>
+<kind>S1</kind>
+<date>20150106</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29460246</doc-number>
+<date>20130709</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<us-term-of-grant>
+<length-of-grant>14</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>10</edition>
+<main-classification>0805</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D 8 47</main-classification>
+</classification-national>
+<invention-title id="d2e53">Wedge</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>D16631</doc-number>
+<kind>S</kind>
+<name>Bakewell</name>
+<date>18860400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 8 76</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>D107109</doc-number>
+<kind>S</kind>
+<name>Carter</name>
+<date>19371100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 8 47</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>3185442</doc-number>
+<kind>A</kind>
+<name>Hemphill</name>
+<date>19650500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>254104</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>D238745</doc-number>
+<kind>S</kind>
+<name>Bedard</name>
+<date>19760200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>D259619</doc-number>
+<kind>S</kind>
+<name>Nicholson</name>
+<date>19810600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 8 47</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D268804</doc-number>
+<kind>S</kind>
+<name>Bacon</name>
+<date>19830500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 8 14</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D269494</doc-number>
+<kind>S</kind>
+<name>Tremaglio et al.</name>
+<date>19830600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 8 47</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D286008</doc-number>
+<kind>S</kind>
+<name>Hillinger</name>
+<date>19861000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 8 47</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>4736974</doc-number>
+<kind>A</kind>
+<name>Rosenthal</name>
+<date>19880400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>292343</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>D336224</doc-number>
+<kind>S</kind>
+<name>Terry</name>
+<date>19930600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 8 14</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>5290012</doc-number>
+<kind>A</kind>
+<name>Cottriel et al.</name>
+<date>19940300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>254104</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>D406028</doc-number>
+<kind>S</kind>
+<name>Montgomery</name>
+<date>19990200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 8 47</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>D421374</doc-number>
+<kind>S</kind>
+<name>Montgomery</name>
+<date>20000300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 8 47</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>D457157</doc-number>
+<kind>S</kind>
+<name>Best</name>
+<date>20020500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D14299</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>2002/0165428</doc-number>
+<kind>A1</kind>
+<name>Jain et al.</name>
+<date>20021100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>600 32</main-classification></classification-national>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D 8 14</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 8 45</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 8 47</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D32 46</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D32 49</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 30167</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 301671</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 30168</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 30153</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 30342</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D24146-147</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D24149</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D24152</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D24154</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>3</number-of-drawing-sheets>
+<number-of-figures>6</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only">
+<addressbook>
+<last-name>Pugh</last-name>
+<first-name>Charles H.</first-name>
+<address>
+<city>Wichita Falls</city>
+<state>TX</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Pugh</last-name>
+<first-name>Charles H.</first-name>
+<address>
+<city>Wichita Falls</city>
+<state>TX</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Price</last-name>
+<first-name>Gary K.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<examiners>
+<primary-examiner>
+<last-name>Hyder</last-name>
+<first-name>Philip S</first-name>
+<department>2917</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Cody</last-name>
+<first-name>Roselynne</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="102.79mm" wi="153.42mm" file="USD0720588-20150106-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="229.70mm" wi="156.80mm" file="USD0720588-20150106-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="176.28mm" wi="159.34mm" file="USD0720588-20150106-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="224.71mm" wi="167.22mm" file="USD0720588-20150106-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. 1</figref> is a top plan view of my wedge.</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. 2</figref> is a side view of the wedge.</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. 3</figref> is an end view from one end of the wedge.</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. 4</figref> is an end view from the opposite end of the wedge.</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. 5</figref> is a top perspective view from the one end of the wedge; and,</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. 6</figref> is a top perspective view from the opposite end of the wedge.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a wedge, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

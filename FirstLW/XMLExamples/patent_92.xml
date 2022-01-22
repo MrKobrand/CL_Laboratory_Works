@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v45-2014-04-03.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.5 2014-04-03" file="USD0720608-20150106.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20141219" date-publ="20150106">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0720608</doc-number>
+<kind>S1</kind>
+<date>20150106</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29461188</doc-number>
+<date>20130719</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2013-001014</doc-number>
+<date>20130122</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<length-of-grant>14</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>10</edition>
+<main-classification>0808</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D 8382</main-classification>
+</classification-national>
+<invention-title id="d2e71">Pipe connector for furniture kits</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>3486287</doc-number>
+<kind>A</kind>
+<name>Guillon</name>
+<date>19691200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 52775</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>3513590</doc-number>
+<kind>A</kind>
+<name>Fischer</name>
+<date>19700500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>446127</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>3513606</doc-number>
+<kind>A</kind>
+<name>Jones</name>
+<date>19700500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 52 27</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>4226394</doc-number>
+<kind>A</kind>
+<name>Einhorn</name>
+<date>19801000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>24822341</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>4490064</doc-number>
+<kind>A</kind>
+<name>Ducharme</name>
+<date>19841200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>403255</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D365746</doc-number>
+<kind>S</kind>
+<name>Chudoba et al.</name>
+<date>19960100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 8349</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>D373832</doc-number>
+<kind>S</kind>
+<name>Nomura</name>
+<date>19960900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D25122</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>5580181</doc-number>
+<kind>A</kind>
+<name>Nomura</name>
+<date>19961200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>403170</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>5647650</doc-number>
+<kind>A</kind>
+<name>Daugherty et al.</name>
+<date>19970700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>3122651</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>7628563</doc-number>
+<kind>B2</kind>
+<name>Winkler</name>
+<date>20091200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>403387</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>8789325</doc-number>
+<kind>B2</kind>
+<name>Verhaeghe</name>
+<date>20140700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 52233</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<nplcit num="00012">
+<othercit>8020 T Slot Aluminum Tri Corner Connector 10 S 4042 N, ebay, [online], [retrieved on Aug. 21, 2014]. Retrieved from the Internet &#x3c;URL: http://www.ebay.com/itm/like/220470841032?lpid=82&#x3e;.</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00013">
+<othercit>Multi Connector 30, MiniTec Framing Systems, LLC, [online], [retrieved on Aug. 21, 2014]. Retrieved from the Internet &#x3c;URL: http://www.minitecframing.com/Products/30%20SERIES%20 PROFILES/30%20SERIES%20CATALOG%20PAGES/22.1140<sub>&#x2014;</sub>Multi<sub>&#x2014;</sub>Connector<sub>&#x2014;</sub>30.html&#x3e;.</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00014">
+<othercit>T-Slot Framing, 80/20 Inc., The Industrial Erector Set, [online], [retrieved on Aug. 21, 2014]. Retrieved from the Internet &#x3c;URL: http://www.8020.net/T-Slot-1.asp&#x3e;.</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+<us-citation>
+<nplcit num="00015">
+<othercit>Aluminum Extrusions System created for engineers by engineers, Valuframe&#x2014;The Economy Aluminum Profile System, [online], [retrieved on Aug. 21, 2014]. Retrieved from the Internet &#x3c;URL: http://www.valuframe.co.uk/&#x3e;.</othercit>
+</nplcit>
+<category>cited by examiner</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D 8382</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 8354</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 8349</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 8499</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6512</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6513</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6553</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6310</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6329</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6332</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D25122</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D25123</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D25 58</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 525862</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 52775</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 52 27</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 52233</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>211189</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>211182</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>211183</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>248678</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>24822341</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>403256</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>403255</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>403170</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>403387</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  4524</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>446127</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>3122651</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>10</number-of-drawing-sheets>
+<number-of-figures>11</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="obligated-assignee">
+<addressbook>
+<orgname>Toyoda Products Co., Ltd.</orgname>
+<address>
+<city>Kiryu</city>
+<country>JP</country>
+</address>
+</addressbook>
+<residence>
+<country>JP</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Yamaguchi</last-name>
+<first-name>Masao</first-name>
+<address>
+<city>Kiryu</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Harness, Dickey &#x26; Pierce, P.L.C.</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Toyoda Products Co., Ltd.</orgname>
+<role>03</role>
+<address>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Lane</last-name>
+<first-name>Sheryl</first-name>
+<department>2919</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Shiflet</last-name>
+<first-name>Nicole</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="173.23mm" wi="309.88mm" file="USD0720608-20150106-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="189.91mm" wi="168.74mm" file="USD0720608-20150106-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="179.75mm" wi="170.77mm" file="USD0720608-20150106-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="183.39mm" wi="173.57mm" file="USD0720608-20150106-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="180.17mm" wi="174.84mm" file="USD0720608-20150106-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="184.66mm" wi="161.80mm" file="USD0720608-20150106-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="180.93mm" wi="161.37mm" file="USD0720608-20150106-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="182.63mm" wi="169.08mm" file="USD0720608-20150106-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="176.45mm" wi="156.46mm" file="USD0720608-20150106-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="184.66mm" wi="163.83mm" file="USD0720608-20150106-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="201.00mm" wi="110.32mm" file="USD0720608-20150106-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. 1</figref> is a front perspective view of a pipe connector for furniture kits, showing my new design;</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. 2</figref> is a rear perspective view thereof;</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. 3</figref> is a front elevational view thereof;</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. 4</figref> is a rear elevational view thereof;</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. 5</figref> is a top plan view thereof;</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. 6</figref> is a bottom view thereof;</p>
+<p id="p-0007" num="0007"><figref idref="DRAWINGS">FIG. 7</figref> is a right side view thereof;</p>
+<p id="p-0008" num="0008"><figref idref="DRAWINGS">FIG. 8</figref> is a left side view thereof;</p>
+<p id="p-0009" num="0009"><figref idref="DRAWINGS">FIG. 9</figref> is a cross sectional view thereof, taken along the line <b>9</b>-<b>9</b> in <figref idref="DRAWINGS">FIG. 3</figref>;</p>
+<p id="p-0010" num="0010"><figref idref="DRAWINGS">FIG. 10</figref> is a cross sectional view thereof, taken along the line <b>10</b>-<b>10</b> in <figref idref="DRAWINGS">FIG. 3</figref>; and,</p>
+<p id="p-0011" num="0011"><figref idref="DRAWINGS">FIG. 11</figref> is a cross sectional view thereof, taken along the line <b>11</b>-<b>11</b> in <figref idref="DRAWINGS">FIG. 3</figref>.</p>
+<p id="p-0012" num="0012">The broken lines shown in <figref idref="DRAWINGS">FIGS. 9-11</figref> are for environmental purposes only and form no part of the claimed design.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a pipe connector for furniture kits, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

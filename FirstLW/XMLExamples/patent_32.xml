@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v45-2014-04-03.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.5 2014-04-03" file="USD0720548-20150106.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20141219" date-publ="20150106">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0720548</doc-number>
+<kind>S1</kind>
+<date>20150106</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29462397</doc-number>
+<date>20130802</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>TW</country>
+<doc-number>102301916</doc-number>
+<date>20130315</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<length-of-grant>14</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>10</edition>
+<main-classification>1211</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D 6354</main-classification>
+</classification-national>
+<invention-title id="d2e71">Saddle</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>576969</doc-number>
+<kind>A</kind>
+<name>Hunt</name>
+<date>18970200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>297202</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>672193</doc-number>
+<kind>A</kind>
+<name>McKinlay</name>
+<date>19010400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>264222</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>1271375</doc-number>
+<kind>A</kind>
+<name>Saunders</name>
+<date>19180700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>297212</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>2088108</doc-number>
+<kind>A</kind>
+<name>Hayes</name>
+<date>19370700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>297214</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>2190992</doc-number>
+<kind>A</kind>
+<name>Mesinger</name>
+<date>19400200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>297214</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>2801199</doc-number>
+<kind>A</kind>
+<name>Meyers</name>
+<date>19570700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>156 77</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>5294173</doc-number>
+<kind>A</kind>
+<name>Yu</name>
+<date>19940300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>2971951</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>5356198</doc-number>
+<kind>A</kind>
+<name>Hughes</name>
+<date>19941000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>2971951</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>D439756</doc-number>
+<kind>S</kind>
+<name>Bigolin</name>
+<date>20010400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6354</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>D456623</doc-number>
+<kind>S</kind>
+<name>Yates</name>
+<date>20020500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6354</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>6450572</doc-number>
+<kind>B1</kind>
+<name>Kuipers</name>
+<date>20020900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>2971951</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>7172243</doc-number>
+<kind>B1</kind>
+<name>Lee</name>
+<date>20070200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>2971951</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>D590160</doc-number>
+<kind>S</kind>
+<name>Hung</name>
+<date>20090400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 6354</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>8371649</doc-number>
+<kind>B2</kind>
+<name>Segato</name>
+<date>20130200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>29721911</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>2014/0054937</doc-number>
+<kind>A1</kind>
+<name>Sam et al.</name>
+<date>20140200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>297214</main-classification></classification-national>
+</us-citation>
+</us-references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>D 6354</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 6340</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D12111</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D12112</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>2971951</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>297196-21516</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>2974521</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>29745211-45219</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>29745221</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>2974524</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>29745255-45259</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>29745263-45265</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>267132</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>296 6513</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>296 681</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>6</number-of-drawing-sheets>
+<number-of-figures>6</number-of-figures>
+</figures>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Velo Enterprise Co., Ltd.</orgname>
+<address>
+<city>Taichung</city>
+<country>TW</country>
+</address>
+</addressbook>
+<residence>
+<country>TW</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Yu</last-name>
+<first-name>Tsai-Yun</first-name>
+<address>
+<city>Taichung</city>
+<country>TW</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Browdy and Neimark, PLLC</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Velo Enterprises Co., Ltd.</orgname>
+<role>03</role>
+<address>
+<city>Taichung</city>
+<country>TW</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Goodman</last-name>
+<first-name>Eric</first-name>
+<department>2917</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Watkins</last-name>
+<first-name>Jennifer</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="205.91mm" wi="171.70mm" file="USD0720548-20150106-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="188.89mm" wi="156.46mm" file="USD0720548-20150106-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="189.23mm" wi="180.34mm" file="USD0720548-20150106-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="195.33mm" wi="192.28mm" file="USD0720548-20150106-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="202.01mm" wi="121.92mm" file="USD0720548-20150106-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="195.58mm" wi="111.84mm" file="USD0720548-20150106-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="123.44mm" wi="179.75mm" file="USD0720548-20150106-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001"><figref idref="DRAWINGS">FIG. 1</figref> shows a perspective view of the present design.</p>
+<p id="p-0002" num="0002"><figref idref="DRAWINGS">FIG. 2</figref> shows a front view of the present design.</p>
+<p id="p-0003" num="0003"><figref idref="DRAWINGS">FIG. 3</figref> shows a rear view of the present design.</p>
+<p id="p-0004" num="0004"><figref idref="DRAWINGS">FIG. 4</figref> shows a left side view of the present design.</p>
+<p id="p-0005" num="0005"><figref idref="DRAWINGS">FIG. 5</figref> shows a right side view of the present design; and,</p>
+<p id="p-0006" num="0006"><figref idref="DRAWINGS">FIG. 6</figref> shows a top view of the present design.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<us-claim-statement>CLAIM</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a saddle, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>
